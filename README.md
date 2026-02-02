@@ -1,7 +1,7 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 
 
-![Project Logo](Images/logo.png)
+![Project Logo](logo.png)
 
 
 ## Overview
